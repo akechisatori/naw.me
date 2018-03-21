@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://naw.me/contact/</loc>
+    <lastmod>2018-03-21T19:30:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://naw.me/about/</loc>
+    <lastmod>2018-03-21T19:30:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://naw.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naw.me/</loc>
+    <lastmod>2018-03-21T19:30:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naw.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
